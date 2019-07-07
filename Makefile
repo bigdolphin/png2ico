@@ -21,7 +21,7 @@ clean:
 	rm -f png2ico *~ doc/*~ *.bak png2ico-src-*.tar.gz png2ico-win-*.zip doc/png2ico.txt
 
 install:
-        cp png2ico /usr/bin/
+	cp png2ico /usr/bin/
 
 uninstall:
-        rm /usr/bin/png2ico
+	rm /usr/bin/png2ico
