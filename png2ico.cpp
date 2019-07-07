@@ -35,7 +35,7 @@ Notes about transparent and inverted pixels:
 #include <cstdio>
 #include <vector>
 #include <climits>
-#include <string.h>
+#include <string.h>//Added by bigdolphin for compiling on new linux
 #if __GNUC__ > 2
 #include <ext/hash_map>
 #else
